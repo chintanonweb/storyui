@@ -1,4 +1,4 @@
-# chintzz
+# Flutter Story UI
 
 A new Flutter project.
 
